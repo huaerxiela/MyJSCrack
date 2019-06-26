@@ -1,6 +1,6 @@
 # pdd_anti_content
-js破解之再战pdd（搜索商品列表页anti_content参数破解）
-特殊说明：本人测试同一anti_content有效调用次数为2次，目前ip限制较为严重，但代理不在本文讨论之列，请合理安排策略
+- js破解之再战pdd（搜索商品列表页anti_content参数破解）
+- 特殊说明：本人测试同一anti_content有效调用次数为2次，目前ip限制较为严重，但代理不在本文讨论之列，请合理安排策略
 
 ## 文件列表
 

@@ -3,8 +3,8 @@ js破解之再战pdd（搜索商品列表页anti_content参数破解）
 
 ## 文件列表
 
-- [demo_pdd.py](python调用示例)
-- [demo_pdd_github.js](nodejs接口示例)
+- demo_pdd.py(python调用示例)
+- demo_pdd_github.js(nodejs接口示例)
 
 ## 介绍
 

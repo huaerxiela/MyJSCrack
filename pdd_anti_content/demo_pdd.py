@@ -22,7 +22,7 @@ def get_goods(goods_name):
     flip = re.search(r'"flip":"([^"]+)"', res_text).group(1)
     print([list_id, flip])
 
-    res = requests.get('http://localhost:8085/pdd_search')
+    res = requests.get('http://localhost:8085/pdd_search', timeout=5)
     anti_content = res.json().get('anti_result')
     print(anti_content)
 

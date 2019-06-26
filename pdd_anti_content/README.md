@@ -19,5 +19,5 @@ js破解之再战pdd（搜索商品列表页anti_content参数破解）
 
 ## 示例
 
-- 调用node接口
+- 调用示例：[pdd搜索参数anti_content破解(06-26)](https://www.jianshu.com/p/58039dc72de8)
 
